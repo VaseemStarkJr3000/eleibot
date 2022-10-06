@@ -26,7 +26,7 @@ global.prefa = ['.']
 global.location = ",India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
+global.vidmenu = { url: 'https://media.tenor.com/QbKebI0lMkIAAAPo/anime-round.mp4' }
 global.websitex = "https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO"
 global.lolhuman = "KaysaS"
 
