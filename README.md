@@ -39,7 +39,7 @@
 1. Copyright Free.
 2. No Source Code Encryption.
 3. Most commands.
-4. Singe prefix ("-").
+4. Singe prefix (".").
 5. Self restoration.
 6. No API key needed!
 7. Full premission to Recode.
@@ -49,15 +49,11 @@
 ✧ The main motto of this project is to provide Beginner Devs a base without any limitations 😊.
 ✧ Check "Credits" section and Support Them too.
 
--regards FantoX001
+-regards Ronen
 ```
 </br>
 
-## ✧✧✧ Video tutorial for Heroku Deploy:
 
-<a href="https://youtu.be/fZdM7Ahb4JE"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="160"></a>
-
-Here's the Video Tuturial for Deploying and Hosting Miku Bot on Heroku.
 
 ## ✧✧✧ Heroku Deployment Method:
 
