@@ -4934,9 +4934,10 @@ You can get Elei bots script in My Github repository
 
 *Credits🏁*
 
-🔰*Developer* : Ronen
-🔰*Script* : Fantox
-🔰*Based* : Engalei
+*🔰Developer* : Ronen
+*🔰Script* : Fantox
+*🔰Based* : Engalei
+*🔰Theme* : Ronen
 
 
 *About Ronen💜*
@@ -4948,7 +4949,7 @@ You can get Elei bots script in My Github repository
 *🎯Gender* : Male👨‍🦱
 
 *❣️Relationship status* : Single
-*🎏Hobbies* : Coding, Video Editing, Listening musics, Loves Watching Animes and Kdramas
+*🎏Hobbies* : Coding, Video Editing, Listening musics, Love Watching Animes and Kdramas
 
 
 *License*
