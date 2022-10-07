@@ -1774,7 +1774,7 @@ case 'delete': case 'del': {
  if (isBanChat) return reply(mess.bangc)
  if (!isBotAdmins) return replay(mess.botadmin)
  if (!isAdmins && !isCreator) return replay(mess.useradmin)
- if (!m.quoted) return reply('Please mention a message baka!')
+ if (!m.quoted) return reply('Please mention a message!')
  let { chat, fromMe, id} = m.quoted
 
 const key = {
@@ -2886,7 +2886,7 @@ case 'togif': case 'getgif':{
  break
 
 
- case 'owner': case 'creator': case 'mod': case 'mods':{
+ case 'owner': case 'dev': case 'mod': case 'mods':{
     Miku.sendContact(m.chat, global.Owner, m)
     }
     break
@@ -3720,14 +3720,14 @@ case 'charactercheck':
          "tag the person you hate",
          "Pretending to be possessed, for example: possessed by dog, possessed by grasshoppers, possessed by refrigerator, etc.",
          "change name to *I AM DONKEY* for 24 hours",
-         "shout *ma chuda ma chuda ma chuda* in front of your house",
+         "shout *Mai pagal hu, Mai pagal hu, Mai pagal hu* in front of your house",
          "snap/post boyfriend photo/crush",
          "tell me your boyfriend type!",
          "say *i hv crush on you, do you want to be my girlfriend?* to the opposite sex, the last time you chatted (submit on wa/tele), wait for him to reply, if you have, drop here",
          "record ur voice that read *titar ke age do titar, titar ke piche do titar*",
          "prank chat ex and say *i love u, please come back.* without saying dare!",
          "chat to contact wa in the order according to your battery %, then tell him *i am lucky to hv you!*",
-         "change the name to *I am a child of randi* for 5 hours",
+         "change the name to *I am a small kid* for 5 hours",
          "type in bengali 24 hours",
          "Use selmon bhoi photo for 3 days",
          "drop a song quote then tag a suitable member for that quote",
@@ -3763,7 +3763,7 @@ case 'charactercheck':
          "change name to I AM GAY for 5 hours",
          "chat to any contact in whatsapp and say i will be ur bf/gf for 5hours",
          "send voice note says i hv crush on you, want to be my girlfriend/boyfriend or not? to any random person from the grup(if u girl choose boy, if boy choose girl",
-         "slap ur butt hardly send the sound of slap through voice note😂",
+         "Ask your crush if he/she loves you",
          "state ur gf/bf type and send the photo here with caption, ugliest girl/boy in the world",
          "shout bravooooooooo and send here through voice note",
          "snap your face then send it here",
@@ -3777,7 +3777,7 @@ case 'charactercheck':
          "make any tiktok dance challenge video and put it on status, u can delete it after 5hrs",
          "breakup with your best friend for 5hrs without telling him/her that its a dare",
           "tell one of your frnd that u love him/her and wanna marry him/her, without telling him/her that its a dare",
-          "say i love depak kalal through voice note",
+          "say i love Elei bot through voice note",
           "write i am feeling horny and put it on status, u can delete it only after 5hrs",
           "write i am lesbian and put it on status, u can delete only after 5hrs",
           "kiss your mommy or papa and say i love you😌",
@@ -3796,7 +3796,7 @@ case 'truth':
                            const truth =[
                  "Have you ever liked anyone? How long?",
                  "If you can or if you want, which gc/outside gc would you make friends with? (maybe different/same type)",
-                 "apa ketakutan terbesar kamu?",
+                 "Do you love Elei bot?",
                  "Have you ever liked someone and felt that person likes you too?",
                  "What is the name of your friend's ex-girlfriend that you used to secretly like?",
                  "Have you ever stolen money from your father or mom? The reason?",
@@ -3824,7 +3824,7 @@ case 'truth':
                  "What is the last thing you Googled",
                  "Who in this group would you want to swap lives with for a week",
                  "What is the scariest thing thats ever happened to you",
-                 "Have you ever farted and blamed it on someone else",
+                 "Have you ever done a mistake and blamed it on someone else",
                  "When is the last time you made someone else cry",
                  "Have you ever ghosted a friend",
                  "Have you ever seen a dead body",
@@ -3835,14 +3835,14 @@ case 'truth':
                  "What is the most embarrassing item in your room",
                  "What five items would you bring if you got stuck on a desert island",
                  "Have you ever laughed so hard you peed your pants",
-                 "Do you smell your own farts",
+                 "Do you like your own Finger's",
                  "have u ever peed on the bed while sleeping ðŸ¤£ðŸ¤£",
                  "What is the biggest mistake you have ever made",
                  "Have you ever cheated in an exam",
                  "What is the worst thing you have ever done",
                  "When was the last time you cried",
                  "whom do you love the most among ur parents", 
-                 "do u sometimes put ur finger in ur nosetrilðŸ¤£", 
+                 "do u sometimes feel like doing suicideðŸ¤£", 
                  "who was ur crush during the school days",
                  "tell honestly, do u like any boy in this grup",
                  "have you ever liked anyone? how long?",
@@ -3882,7 +3882,7 @@ case 'truth':
                  "What is the biggest lie you ever told your parents",
                  "Who is your celebrity crush",
                  "Whats the strangest dream you have ever had",
-                 "do you play pubg, if you then send ur id number"
+                 "do you use Instagram, if you then send ur username"
              ]
                            const mikutruthww = truth[Math.floor(Math.random() * truth.length)]
                            buffer = await getBuffer(`https://wallpapercave.com/wp/wp10524609.jpg`)
