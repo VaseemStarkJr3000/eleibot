@@ -4805,7 +4805,7 @@ speak, elei, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, s
  
  *━━━〈  🎀 Owner 🎀  〉━━━*
 
-self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
+self, public, ban, bangroup, join, bye, block, unblock, broadcast 
 
  *━━━〈  🦅 Group 🦅  〉━━━*
  
@@ -4921,7 +4921,13 @@ case 'miku':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
 
-const txt = `Do you love Elei? Then we are the same.`
+const txt = `Hii! I'm Elei a whatsapp bot
+Based on Engalei, Developed and Reverse engineered by Ronen to make your whatsapp more enjoyable and to do everything possible on whatsapp.
+
+You can get Elei bots script in My Github repository
+
+🐧 Script : github.com/Ronen6999/eleibot
+💜 *Our official support group* : https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO`
 const mikuarray= [
             "https://c.tenor.com/SOeIW-QVZvoAAAPo/scared-the-quintessential-quintuplets.mp4",
             "https://c.tenor.com/FDe7lTs0xvMAAAPo/miku-nakano-nakano-miku.mp4",
