@@ -4926,8 +4926,29 @@ Based on Engalei, Developed and Reverse engineered by Ronen to make your whatsap
 
 You can get Elei bots script in My Github repository
 
-🐧 Script : github.com/Ronen6999/eleibot
-💜 *Our official support group* : https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO`
+🐧 *Script* : github.com/Ronen6999/eleibot
+💜 *Our official support group* : https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO
+🐨 *My YouTube* : https://youtube.com/c/RonenAMVs
+👀 *Engalei's YouTube* : https://m.youtube.com/channel/UCP35fyVBx5mB2dQqkUH16sg
+🔖 *Website* : Coming soon...
+
+*Credits🏁*
+
+🔰*Developer* : Ronen
+🔰*Script* : Fantox
+🔰*Based* : Engalei
+
+
+*About Ronen💜*
+
+*🎗️Name* : Ronen Singha
+*🧧Age* : 15
+*♦️Country* : India🇮🇳
+*💠Religion* : Hindu
+*🎯Gender* : Male👨‍🦱
+
+*❣️Relationship status* : Single
+*🎏Hobbies* : Coding, Video Editing, Listening musics, Loves Watching Animes and Kdramas`
 const mikuarray= [
             "https://c.tenor.com/SOeIW-QVZvoAAAPo/scared-the-quintessential-quintuplets.mp4",
             "https://c.tenor.com/FDe7lTs0xvMAAAPo/miku-nakano-nakano-miku.mp4",
