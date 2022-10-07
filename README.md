@@ -33,7 +33,7 @@
 </br>
   
 
-## ✧✧✧ Why use Miku as your Base?
+## ✧✧✧ Why use Elei as your Base?
 
 ```
 1. Copyright Free.
