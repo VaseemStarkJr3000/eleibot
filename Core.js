@@ -4783,33 +4783,33 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
     if (isBanChat) return reply(mess.bangc)
       
  const helpmenu = `
-╭─「👁️👄👁️」
-│⋊ *User:* ${pushname}
-│⋊ *Name:* Elei
-│⋊ *Prefix:* .
-│⋊ *Owner:* Ronen
-│⋊ *Official Group:* https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO
-╰────────────┈平和                            
+╭─「💜-💜」
+│⋊ *USER:* ${pushname}
+│⋊ *NAME:* Elei🐧
+│⋊ *PREFIX:* .
+│⋊ *DEVELOPER:* Ronen
+│⋊ *OFFICIAL GROUP:* https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO
+╰────────────┈エンガレイ                    
 
 I am *Elei*, a bot developed by *Ronen*.
 
-🔰 My prefix is:  ${prefix}
+🔖 My prefix is:  ${prefix}
 
 Here's the list of my Commands.
 
 
  
- *━━━〈  🎆 Core 🎆  〉━━━*
+ *━━━〈  🐧 Core 🐧  〉━━━*
 
-speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
+speak, elei, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
  
  *━━━〈  🎀 Owner 🎀  〉━━━*
 
 self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
 
- *━━━〈  ⭕ Group ⭕  〉━━━*
+ *━━━〈  🦅 Group 🦅  〉━━━*
  
-promote, demote, revoke, add, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
+promote, demote, revoke, add, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group
 
  *━━━〈  ➰ Anti Link ➰  〉━━━*
  
@@ -4823,7 +4823,7 @@ play, song, yts, lyrics, google, gimage, pinterest, image, movie, wallpaper, sea
 
 sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio
 
- *━━━〈  🔉 Audio 🔉  〉━━━*
+ *━━━〈  🎶 Audio 🎶  〉━━━*
 
 bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel
 
@@ -4831,15 +4831,15 @@ bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, s
 
 bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe
 
- *━━━〈  🌌 Downloader 🌌  〉━━━*
+ *━━━〈  🐨 Downloader 🐨  〉━━━*
 
 play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
 
  *━━━〈  🈴 Weeb 🈴  〉━━━*
 
-crosplay, waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
+crosplay, waifu, loli, neko, ppcouple, feed, foxgirl, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
 
- *━━━〈  ♨️ Informative ♨️  〉━━━*
+ *━━━〈  ☣️ Informative ☣️  〉━━━*
 
 animequote, quote, covid, earthquake, wiki
 
@@ -4867,12 +4867,12 @@ qr, say, translate, fliptext, toletter
  『  *${global.BotName}*  』
  Powered by: *Ronen*
 
- 🔰 To use any of these commands type 
+ 🔖 To use any of these commands type 
  " *${prefix}<Command name>* ".
  
- 🔰 To get Support Group link type " *${prefix}support* ".
+ 🔖 To get Support Group link type " *${prefix}support* ".
 
- 🔰 Type " *${prefix}help* " to get full command list.`
+ 🔖 Type " *${prefix}help* " to get full command list.`
     
 
  let buttonshelpm = [
@@ -4899,7 +4899,7 @@ case '':
       mikupic ='https://wallpapercave.com/wp/wp10524580.jpg'
     
         
- const needhelpmenu = `Do you need help ${pushname} Senpai? Type *${prefix}help* to get my full command list.`
+ const needhelpmenu = `Do you need help ${pushname} senpai? Type *${prefix}help* to get my full command list.`
      
          let butRun = [
                 {buttonId: `.help`, buttonText: {displayText: 'Help'}, type: 1}
