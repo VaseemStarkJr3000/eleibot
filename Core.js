@@ -4948,7 +4948,15 @@ You can get Elei bots script in My Github repository
 *🎯Gender* : Male👨‍🦱
 
 *❣️Relationship status* : Single
-*🎏Hobbies* : Coding, Video Editing, Listening musics, Loves Watching Animes and Kdramas`
+*🎏Hobbies* : Coding, Video Editing, Listening musics, Loves Watching Animes and Kdramas
+
+
+*License*
+
+Ronen6999/eleibot is licensed under the
+
+MIT License
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.`
 const mikuarray= [
             "https://c.tenor.com/SOeIW-QVZvoAAAPo/scared-the-quintessential-quintuplets.mp4",
             "https://c.tenor.com/FDe7lTs0xvMAAAPo/miku-nakano-nakano-miku.mp4",
