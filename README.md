@@ -123,7 +123,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/FantoX001/Miku-MD
+git clone https://github.com/Ronen6999/eleibot
 cd Miku-MD
 npm i
 npm start
@@ -138,8 +138,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## ✧✧✧ License and recode Permission:
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
-- And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to show some appreciation.
+- And this project comes under [`MIT`](https://github.com/Ronen6999/eleibot/blob/main/LICENSE.md) lincense.
+- Please at least [`Follow`](https://github.com/Ronen6999/#follow) me on GitHub to show some appreciation.
    
    
 ## ✧ Reminder:
@@ -150,18 +150,16 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 
 ## ✧ Contribution:
-- I don't have any contributor in this project. Feel free to contribute.
+- Ronen, Fantox
 
 
 
 ## ✧ Help Me:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/Ronen6999/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
 ## ✧ Credits and Appreciation:
 
--   `Adiwajshing` sir for [Baileys](https://github.com/adiwajshing/baileys).
--   `Arus~Bots`, my lovely team mates for [Mizuhara](https://github.com/Arus-Bots/Mizuhara) and Support.
--   `Xeon` for [Cheems](https://github.com/DGXeon/CheemsBot-MD2) as a Base.
--   `Zhwzein` for [Killua](https://github.com/zhwzein/Killua-Zoldyck)
+-   `Shubha` sir for [Script] 
+-  
