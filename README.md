@@ -1,6 +1,6 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
+   <a href="https://github.com/Ronen6999">
+    <img src="https://i.ibb.co/9GpZfxh/20221007-155625.jpg" width="610">
      
 </p>
 <h1 align="center"> Elei bot
