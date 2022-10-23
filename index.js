@@ -26,14 +26,14 @@ console.log(color(figlet.textSync('Elei Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Ronen, the main developer of this bot.\n\nThanks for using: Elei Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: Ronen6999','aqua'))
+console.log(color('\nHello, I am Vaseem, the main developer of this bot.\n\nThanks for using: Elei Bot','aqua'))
+console.log(color('\nYou can follow me on GitHub: VaseemStarkJr3000','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Miku = MikuConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Elei by: Ronen','Safari','1.0.0'],
+        browser: ['Elei by: Vaseem','Safari','1.0.0'],
         auth: state,
         version
     })
