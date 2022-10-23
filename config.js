@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['15069751205']
-global.OwnerNumber = ['15069751205']
-global.ownertag = ['15069751205']
+global.Owner = ['916305309081']
+global.OwnerNumber = ['916305309081']
+global.ownertag = ['916305309081']
 global.BotName = "Elei🐧"
-global.packname = "Elei bot🐧"
-global.author = "By : Ronen💜"
-global.OwnerName = "Ronen💜"
-global.BotSourceCode = "https://github.com/Ronen6999/eleibot"
-global.SupportGroupLink = "https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO"
+global.packname = "ISSEI🐉"
+global.author = "By : Vaseem❤️"
+global.OwnerName = "Vaseem❤️"
+global.BotSourceCode = "https://github.com/VaseemStarkJr3000/eleibot"
+global.SupportGroupLink = "https://chat.whatsapp.com/Fl1CSCulEO95dZuRBjYeSu"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,7 +27,7 @@ global.location = ",India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://media.tenor.com/QbKebI0lMkIAAAPo/anime-round.mp4' }
-global.websitex = "https://chat.whatsapp.com/Hooxu1kZEoFKoNpdFLqXMO"
+global.websitex = "https://chat.whatsapp.com/Fl1CSCulEO95dZuRBjYeSu"
 global.lolhuman = "KaysaS"
 
 
